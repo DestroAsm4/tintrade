@@ -1,0 +1,6 @@
+python-dotenv
+tinkoff-investments
+PyQt6
+pyqtgraph
+matplotlib
+numpy
